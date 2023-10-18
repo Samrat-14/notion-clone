@@ -1,0 +1,5 @@
+[*] Project name            -   "ScribeSync"
+[*] Project logo      
+[ ] Project theme           -   "purple" | "#701DA3"
+[ ] Project texts
+[ ] Google login

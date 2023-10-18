@@ -12,8 +12,9 @@ import './globals.css';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Jotion',
-  description: 'The connected workspace where better, faster work happens.',
+  title: 'ScribeSync - Ignite Ideas 💡',
+  description:
+    'Unlock productivity with ScribeSync, the connected workspace where better, faster work happens through seamless note-taking and collaborative tools.',
   icons: {
     icon: [
       {
@@ -45,7 +46,7 @@ export default function RootLayout({
               defaultTheme="system"
               enableSystem
               disableTransitionOnChange
-              storageKey="jotion-theme"
+              storageKey="scribesync-theme"
             >
               <Toaster position="bottom-center" />
               <ModalProvider />
