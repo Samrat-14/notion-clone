@@ -68,11 +68,11 @@ _Follow the following steps to install and setup the virtual environment._
 
 ## Features
 
-- Effortlessly manage and structure your notes, documents, and tasks with a versatile organizational system, allowing for customizable layouts and categorization.
-- Facilitate seamless teamwork with real-time editing, enabling multiple users to view shared documents simultaneously, fostering efficient communication and productivity.
-- Enhance your notes with multimedia elements, including images to create engaging and dynamic content that captures ideas in various formats.
-- Choose from a diverse range of customizable templates tailored for different use cases, ensuring quick and efficient initiation of projects, tasks, and workflows to suit individual preferences and requirements.
-- Access ScribeSync from various devices and operating systems, ensuring that your notes and data are synchronized across multiple platforms, allowing for convenient and on-the-go access to your information.
+- **Effortless Organization and Structuring:** Effortlessly manage and structure your notes, documents, and tasks with a versatile organizational system, allowing for customizable layouts and categorization.
+- **Real-Time Editing for Seamless Teamwork:** Facilitate seamless teamwork with real-time editing, enabling multiple users to view shared documents simultaneously, fostering efficient communication and productivity.
+- **Multimedia Integration for Enhanced Notes:** Enhance your notes with multimedia elements, including images to create engaging and dynamic content that captures ideas in various formats.
+- **Diverse Customizable Templates:** Choose from a diverse range of customizable templates tailored for different use cases, ensuring quick and efficient initiation of projects, tasks, and workflows to suit individual preferences and requirements.
+- **Cross-Platform Synchronization with ScribeSync:** Access ScribeSync from various devices and operating systems, ensuring that your notes and data are synchronized across multiple platforms, allowing for convenient and on-the-go access to your information.
 
 ## Contributing
 
@@ -98,4 +98,4 @@ Live Demo: [https://samrat-scribesync.vercel.app/](https://samrat-scribesync.ver
 
 ## Contact
 
-Your Name - [Samrat Sadhu](https://samrat-14.github.io/my-portfolio/) - ss2414@ece.jgec.ac.in
+Your Name - [Samrat Sadhu](https://samrat-sadhu-portfolio.vercel.app/) - ss2414@ece.jgec.ac.in
